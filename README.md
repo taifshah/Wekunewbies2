@@ -1,2 +1,1 @@
-# wekunewbies
-wekunewbies
+# test-vote-bot

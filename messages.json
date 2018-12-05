@@ -1,0 +1,16 @@
+{
+  "info": "<@%s> To get your post voted by @%s, just type in `%supvote (postlink)`. The postlink can be from deals.weku.io or any other site that follow the @author/permlink format.",
+  "systemError": "<@%s> :scream: Oh My God, Bot has Found New Bug. Can you please try again after sometimes, I will be Call @Admin for fix this.",
+  "upvotePostUrlError": "<@%s> We can't use your post link for upvote. Please recheck your command. It should be `%supvote (postlink)`.",
+  "upvotePostNotFound": "<@%s> We couldn't find your post, do you put the right link?",
+  "upvotePostVotedAlready": "<@%s> Your post was voted by @%s account already.",
+  "upvotePostTooEarly": "<@%s> Posts can only be voted between \"%s\" and \"%s\" from it publication date. Please wait for this moment.",
+  "upvotePostTooLate": "<@%s> Posts can only be voted between \"%s\" and \"%s\" from it publication date. This post doesn't meet that requirement...",
+  "upvoteSuccess": ":tada:Congratulations Mr. <@%s> Your Post has been Upvoted by @%s. First use #nirob tag.💞👬",
+  "permissionDenied": "Sorry <@%s>, you have no permission to execute `%s%s` command. You can ask the administrators for help.",
+  "unsupportedCommand": "Sorry <@%s>, we don't support `%s%s` command. You can ask administrators to add a new command to the bot.",
+  "configInfo": "<@%1$s> Using config command you can receive current config value of specified parameter `%2$sconfig (parameter)` or change it value `%2$sconfig (parameter) (new value)`. Be careful with this command :wink:\n\nParameters:\n\t**weight** \t\t\t- Weight of vote\n\t**minPostAge** - Minimum age of post to receive a vote\n\t**maxPostAge** - Maximum age of post to receive a vote",
+  "configParameterValue": "<@%s> Current value of \"%s\" parameter is: %s",
+  "configParameterValueError": "<@%s> Wrong new value of \"%s\" parameter. Errors: %s",
+  "configParameterValueChanged": "<@%s> Value of \"%s\" parameter was changed successfully. New value: %s"
+}
