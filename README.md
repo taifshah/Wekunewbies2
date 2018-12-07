@@ -1,1 +1,1 @@
-# test-vote-bot
+# weku-newbies-upvote-bot
