@@ -2,7 +2,7 @@
   "botToken": "DISCORD_BOT_TOKEN",
   "username": "WEKU_USERNAME",
   "postingKey": "WEKU_WIF",
-  "weight": 5,
+  "weight": 13,
   "minPostAge": "30 minutes ago",
   "maxPostAge": "4 days ago",
   "commandPrefix" : "$",
